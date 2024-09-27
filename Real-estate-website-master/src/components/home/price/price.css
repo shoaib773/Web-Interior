@@ -1,0 +1,16 @@
+.price-section {
+  padding: 60px 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.price-section .price-card {
+  margin-top: 40px;
+}
+
+/* Add any specific styles for PriceCard components here */
